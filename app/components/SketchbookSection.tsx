@@ -51,7 +51,7 @@ const SketchbookSection = () => {
         </h2>
 
         <p className="text-white text-left">
-          It's more than just a sketchbook. It's a collection of some of Gawx's
+          It&apos;s more than just a sketchbook. It&apos;s a collection of some of Gawx&apos;s
           finest works. Each piece tells a story, capturing moments of
           creativity, inspiration, and dedication from over half a decade of
           eating pineapple. Explore and immerse yourself in the digital
